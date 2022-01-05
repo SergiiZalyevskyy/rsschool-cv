@@ -8,3 +8,5 @@
 
 ![here] (https://github.com/SergiiZalyevskyy/rsschool-cv/blob/gh-pages/cv.md)
 
+![here] (https://github.com/SergiiZalyevskyy/rsschool-cv/blob/rsschool-cv-html/index.html)
+
